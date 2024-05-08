@@ -1,15 +1,16 @@
 
 ~ Greetings ~
 
-I'm currently learning about everything about fullstack.
-Like Java, Python, React and C#.
+I'm currently learning about C++, Ruby, Python, Fast API, .NET, Objective C, Swift.
+I'm
 
-I'll make mods when I have the chance, also
-I'm planning to develops game myself so wait patiently.
+I'm making mods from Minecraft and currently learning C++ and OpenGL to make better games.
+
+I'm planning to develops game myself so wait patiently. --
 
 Expect projects in a year or two.
 
 Here's my info if you want to contact me:
 
-Mail - velascogmac@gmail.com
-(Working on more :c).
+Mail - velascogmac@gmail.com or victor7044@gmail.com
+Twitter - @AterVictor22038
