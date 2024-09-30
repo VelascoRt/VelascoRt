@@ -1,8 +1,8 @@
 
 ~ Hello ~
 
-I'm currently learning about C++, Ruby, Python, Objective C, Swift.
-I also learned C#, .NET, Fast API, Java, Javascript.  
+I'm currently learning about C, Ruby, Data structures, Android Studio.
+I also learned C#, .NET, Postman, Java and Python.
 
 I'm making mods from Minecraft and currently learning C++ and OpenGL to create an engine and make better games.
 
