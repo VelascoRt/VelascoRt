@@ -1,16 +1,16 @@
 
-~ Hello ~
+~ Hello everyone! ~
 
-I'm currently learning about C, Ruby, Data structures, Android Studio.
-I also learned C#, .NET, Postman, Java and Python.
+I'm currently learning about Terraform, Github actions and more.
 
-I'm making mods from Minecraft and currently learning C++ and OpenGL to create an engine and make better games.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=velascort&show_icons=true&theme=transparent)
 
-I'm planning to develops game myself so wait patiently. --
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velascort&layout=compact&theme=transparent)
 
-Expect projects in a year or two.
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atervictor)](https://github.com/velascort/github-readme-stats)
 
 Here's my info if you want to contact me:
 
-Mail - velascogmac@gmail.com
+Email - velascogmac@gmail.com
+
 Twitter - @AterVictor22038
